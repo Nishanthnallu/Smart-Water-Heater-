@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "45472281587",
+    "firebase_url": "https://water-heater-5999f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "water-heater-5999f",
+    "storage_bucket": "water-heater-5999f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45472281587:android:c4f5466ac6f45cf6cd9886",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu16LlzurDIq6-TAwYz16ZL2QchgtLdrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45472281587:android:f17154c97f1ba60dcd9886",
+        "android_client_info": {
+          "package_name": "com.example.water_heater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu16LlzurDIq6-TAwYz16ZL2QchgtLdrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
